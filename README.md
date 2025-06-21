@@ -2,7 +2,7 @@
 
 # 🌟 Modern Data Warehouse & Analytics Solution
 
-Welcome to my **Modern Data Warehouse & Analytics Solution**! 🚀
+Welcome to my **Modern Data Warehouse & Analytics Solution**! 
 This project demonstrates my ability to design and implement a complete data warehousing and analytics system, showcasing my expertise in **data engineering, ETL pipelines, data modeling, and business intelligence**.
 
 ---
@@ -28,8 +28,6 @@ I implemented the **Medallion Architecture**, splitting the data pipeline into t
 2. **Silver Layer**: Transformed and standardized data, ready for analysis.
 3. **Gold Layer**: Aggregated, business-ready data modeled for reporting using a star schema.
 
-![Architecture Diagram](docs/data_architecture.drawio.png)
-
 ---
 
 ## 💡 Key Achievements
@@ -51,15 +49,14 @@ To complete this project, I utilized the following tools and platforms:
 
 * **PostgreSQL**: Relational database management system.
 * **pgAdmin**: Database GUI for easier management and visualization.
-* **DrawIO**: For designing architecture and data flow diagrams.
 * **GitHub**: Version control for organizing and managing the project.
-* **Notion**: For project documentation and planning.
+* **Tableau**: For creating interactive Dashboard.
 
 ---
 
-## 🚀 Project Highlights
+##  Project Highlights
 
-### 1️⃣ Data Engineering
+### 1️ Data Engineering
 
 **Objective**: Build a robust data warehouse to consolidate and integrate sales data.
 
@@ -67,7 +64,7 @@ I ingested raw data from ERP and CRM systems, cleaned and validated it, and orga
 
 ---
 
-### 2️⃣ Analytics & Reporting
+### 2️ Analytics & Reporting
 
 **Objective**: Provide actionable insights for strategic decision-making.
 
@@ -77,7 +74,9 @@ Using SQL, I developed reports and visualizations to:
 * Identify **top-performing products** and sales metrics.
 * Highlight **seasonal sales trends** for better forecasting.
 
+### 3 Iteractive Dashboard
 I also created dashboards that enabled stakeholders to interact with the data and gain real-time insights.
+https://public.tableau.com/app/profile/aayush.pandey4569/viz/SalesDashboard_17498546989540/salesdashboard
 
 --
 ## 🏆 Qualifications Demonstrated
