@@ -1,8 +1,7 @@
 # Sales-Analysis-using-PostgreSQL-and-Tableau-
 
-# 🌟 Modern Data Warehouse & Analytics Solution
 
-Welcome to my **Modern Data Warehouse & Analytics Solution**! 
+Welcome to  **Sales-Analysis-using-PostgreSQL-and-Tableau**! 
 This project demonstrates my ability to design and implement a complete data warehousing and analytics system, showcasing my expertise in **data engineering, ETL pipelines, data modeling, and business intelligence**.
 
 ---
@@ -30,7 +29,7 @@ I implemented the **Medallion Architecture**, splitting the data pipeline into t
 
 ---
 
-## 💡 Key Achievements
+##  Key Achievements
 
 Through this project, I demonstrated:
 
@@ -43,7 +42,7 @@ Through this project, I demonstrated:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 To complete this project, I utilized the following tools and platforms:
 
