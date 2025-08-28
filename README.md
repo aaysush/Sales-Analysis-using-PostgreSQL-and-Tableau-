@@ -9,6 +9,7 @@ This project demonstrates the design and implementation of a comprehensive data 
 
 This project includes an end-to-end data warehouse solution with the following components:
 
+
 1. **Data Engineering**: A modern data warehouse designed for analytical workloads.
 2. **ETL Pipelines**: Efficient pipelines for processing and transforming raw data.
 3. **Data Modeling**: Fact and dimension tables structured using the star schema.
