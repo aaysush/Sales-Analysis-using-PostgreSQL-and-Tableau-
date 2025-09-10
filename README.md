@@ -1,5 +1,7 @@
 ## Sales Analysis using PostgreSQL and Tableau
 
+
+
 Welcome to **Sales Analysis using PostgreSQL and Tableau**!
 This project demonstrates the design and implementation of a comprehensive data warehousing and analytics system, showcasing expertise in **data engineering, ETL pipelines, data modeling, and business intelligence**.
 
